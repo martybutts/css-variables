@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+body {
+  background: #CDDC39;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 100;
+  font-size: 50px;
+}
+
+.controls {
+  margin-bottom: 50px;
+}
+
+input {
+  width: 100px;
+}
